@@ -1,0 +1,23 @@
+{
+  "name": "projeto_netflix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyZala/Netflix-copiado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesleyZala/Netflix-copiado/issues"
+  },
+  "homepage": "https://github.com/WesleyZala/Netflix-copiado#readme"
+}
